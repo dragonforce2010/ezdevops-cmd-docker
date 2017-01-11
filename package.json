@@ -1,0 +1,19 @@
+{
+  "name": "ezdevops-cmd-docker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonforce2010/ezdevops-cmd-docker.git"
+  },
+  "author": "Michael Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonforce2010/ezdevops-cmd-docker/issues"
+  },
+  "homepage": "https://github.com/dragonforce2010/ezdevops-cmd-docker#readme"
+}
